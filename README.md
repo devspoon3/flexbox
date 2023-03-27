@@ -1,2 +1,2 @@
 # flexbox
-My learning and understanding of flexbox
+Lesson from Internetingishard.com/html-and-css/flexbox/
